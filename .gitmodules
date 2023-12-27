@@ -7,3 +7,6 @@
 [submodule "ClientTemplate/Packages/CapsLua"]
 	path = ClientTemplate/Packages/CapsLua
 	url = ../CapsLua.git
+[submodule "ClientTemplate/Packages/ReflectHelper"]
+	path = ClientTemplate/Packages/ReflectHelper
+	url = ../ReflectHelper.git
