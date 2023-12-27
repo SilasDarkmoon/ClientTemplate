@@ -1,0 +1,3 @@
+[submodule "ClientTemplate/Packages/CapsModsEntry"]
+	path = ClientTemplate/Packages/CapsModsEntry
+	url = ../CapsModsEntry.git
