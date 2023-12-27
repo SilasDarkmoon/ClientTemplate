@@ -4,3 +4,6 @@
 [submodule "ClientTemplate/Packages/CapsResManager"]
 	path = ClientTemplate/Packages/CapsResManager
 	url = ../CapsResManager.git
+[submodule "ClientTemplate/Packages/CapsLua"]
+	path = ClientTemplate/Packages/CapsLua
+	url = ../CapsLua.git
