@@ -10,3 +10,6 @@
 [submodule "ClientTemplate/Packages/ReflectHelper"]
 	path = ClientTemplate/Packages/ReflectHelper
 	url = ../ReflectHelper.git
+[submodule "ClientTemplate/Packages/CapsUpdate"]
+	path = ClientTemplate/Packages/CapsUpdate
+	url = ../CapsUpdate.git
