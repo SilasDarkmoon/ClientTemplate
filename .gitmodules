@@ -19,3 +19,6 @@
 [submodule "ClientTemplate/Packages/CapsResManagerAB"]
 	path = ClientTemplate/Packages/CapsResManagerAB
 	url = ../CapsResManagerAB.git
+[submodule "ClientTemplate/Packages/AsyncExtensions"]
+	path = ClientTemplate/Packages/AsyncExtensions
+	url = ../AsyncExtensions.git
