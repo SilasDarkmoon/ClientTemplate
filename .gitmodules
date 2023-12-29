@@ -22,3 +22,6 @@
 [submodule "ClientTemplate/Packages/AsyncExtensions"]
 	path = ClientTemplate/Packages/AsyncExtensions
 	url = ../AsyncExtensions.git
+[submodule "ClientTemplate/Packages/CapsAtlasLoader"]
+	path = ClientTemplate/Packages/CapsAtlasLoader
+	url = ../CapsAtlasLoader.git
