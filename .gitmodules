@@ -25,3 +25,12 @@
 [submodule "ClientTemplate/Packages/CapsAtlasLoader"]
 	path = ClientTemplate/Packages/CapsAtlasLoader
 	url = ../CapsAtlasLoader.git
+[submodule "ClientTemplate/Packages/CapsMVC"]
+	path = ClientTemplate/Packages/CapsMVC
+	url = ../CapsMVC.git
+[submodule "ClientTemplate/Packages/CapsNetwork"]
+	path = ClientTemplate/Packages/CapsNetwork
+	url = ../CapsNetwork.git
+[submodule "ClientTemplate/Packages/CapsReplaceableFont"]
+	path = ClientTemplate/Packages/CapsReplaceableFont
+	url = ../CapsReplaceableFont.git
