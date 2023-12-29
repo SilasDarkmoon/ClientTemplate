@@ -34,3 +34,6 @@
 [submodule "ClientTemplate/Packages/CapsReplaceableFont"]
 	path = ClientTemplate/Packages/CapsReplaceableFont
 	url = ../CapsReplaceableFont.git
+[submodule "ClientTemplate/Packages/CapsReplaceableSprite"]
+	path = ClientTemplate/Packages/CapsReplaceableSprite
+	url = ../CapsReplaceableSprite.git
