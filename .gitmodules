@@ -40,3 +40,15 @@
 [submodule "ClientTemplate/Packages/DynamicPrefab"]
 	path = ClientTemplate/Packages/DynamicPrefab
 	url = ../DynamicPrefab.git
+[submodule "ClientTemplate/Packages/NativeCrossEvent"]
+	path = ClientTemplate/Packages/NativeCrossEvent
+	url = ../NativeCrossEvent.git
+[submodule "ClientTemplate/Packages/NativeThreadLocal"]
+	path = ClientTemplate/Packages/NativeThreadLocal
+	url = ../NativeThreadLocal.git
+[submodule "ClientTemplate/Packages/NativeUnityThreadDispatcher"]
+	path = ClientTemplate/Packages/NativeUnityThreadDispatcher
+	url = ../NativeUnityThreadDispatcher.git
+[submodule "ClientTemplate/Packages/SDKEntry"]
+	path = ClientTemplate/Packages/SDKEntry
+	url = ../SDKEntry.git
