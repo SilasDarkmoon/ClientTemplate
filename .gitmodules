@@ -37,3 +37,6 @@
 [submodule "ClientTemplate/Packages/CapsReplaceableSprite"]
 	path = ClientTemplate/Packages/CapsReplaceableSprite
 	url = ../CapsReplaceableSprite.git
+[submodule "ClientTemplate/Packages/DynamicPrefab"]
+	path = ClientTemplate/Packages/DynamicPrefab
+	url = ../DynamicPrefab.git
