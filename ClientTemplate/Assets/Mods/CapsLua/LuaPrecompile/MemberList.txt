@@ -1,5 +1,12 @@
 member * * Capstones.LuaLib.LuaHub+LuaHubC LIB_VER
 member * * Capstones.LuaLib.LuaHub+LuaHubC LuaPrecompileEnabled
+member * * Capstones.Net.CarbonMessageUtils ConnectionConfig
+member * * Capstones.Net.ConnectionFactory+ConnectionConfig .ctor
+member * * Capstones.Net.PredefinedMessages PredefinedReaders
+member * * Capstones.Net.PredefinedMessages PredefinedTypeToID
+member * * Capstones.Net.PredefinedMessages PredefinedWriters
+member * * Capstones.Net.SerializationConfig .ctor
+member * * Capstones.Net.SerializationConfig SplitterFactory
 member * * UnityEngine.Application isEditor
 member * * UnityEngine.Debug isDebugBuild
 member * * UnityEngine.Rendering.GraphicsSettings renderPipelineAsset
